@@ -4,10 +4,8 @@ go 1.16
 
 require (
 	github.com/SkyAPM/go2sky v1.1.0
-	github.com/SkyAPM/go2sky-plugins/gin/v3 v3.0.0-20210528025343-a14c6f711b45
 	github.com/cockroachdb/pebble v0.0.0-20210708204644-a2a79f3d6223
 	github.com/codegangsta/negroni v1.0.0
-	github.com/gin-gonic/gin v1.7.2
 	github.com/go-chi/chi v3.3.2+incompatible
 	github.com/go-kit/kit v0.11.0
 	github.com/go-redis/redis v6.15.9+incompatible
